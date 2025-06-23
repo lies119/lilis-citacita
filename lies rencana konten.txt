@@ -1,0 +1,6 @@
+rencana konten lies
+
+-bikin javascript
+-PHP frameworks
+-Interview
+-Vlog
