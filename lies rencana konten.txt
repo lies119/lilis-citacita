@@ -3,7 +3,9 @@ rencana konten lies
 -bikin javascript
 *ES6
 *Framework javascript
-_Struktur data dasar
+  ^Angular
+  ^React
 -PHP frameworks
+  ^Laravel
 -Interview
 -Vlog
